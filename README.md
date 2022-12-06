@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Güneycan Şanlı</h1>
-<h3 align="center">A passionate DevOps Engineer from Istanbul, Turkey</h3>
+<h3 align="center">A passionate DevOps Engineer from US</h3>
 
 - 💬 Ask me about **CI/CD**
 
