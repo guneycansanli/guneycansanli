@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Güneycan Şanlı</h1>
+<h1 align="center">Hi 👋, I'm Guneycan Sanli</h1>
 <h3 align="center">A passionate DevOps Engineer from US</h3>
 
 - 💬 Ask me about **CI/CD**
